@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@bgriddaluru 
-kubernetes
-/
-ingress-nginx
-Public
-Code
-Issues
-230
-Pull requests
-78
-Actions
-Projects
-2
-Security
-Insights
-ingress-nginx/deploy/static/provider/baremetal/deploy.yaml
-@strongjz
-strongjz udate readme, charts and static deploys for release 1.5.1 (#9280)
-…
-Latest commit 63dbbdb 14 days ago
- History
- 30 contributors
-@aledbf@strongjz@rikatz@tao12345666333@longwuyuan@nehaLohia27@afirth@zryfish@toredash@kd7lxl@shahidhs-ibm@kutysam
-656 lines (656 sloc)  15.3 KB
-
 apiVersion: v1
 kind: Namespace
 metadata:
